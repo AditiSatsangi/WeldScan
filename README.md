@@ -1,2 +1,2 @@
 # WeldScan
-This include study related to the real time application for the welding defect detection and classification.
+This is a study related to the real-time application for welding defect detection and classification.
